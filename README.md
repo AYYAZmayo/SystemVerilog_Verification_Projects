@@ -1,5 +1,5 @@
 # SystemVerilog_Verification_Projects
-This repository contains verification projects based system verilog class based layerd testbench environment.
+This repository contains verification projects based on system verilog class based layerd testbench environment.
 
 ## Table of contents
 | Sr. No | EDAPlayground Link | Github |
