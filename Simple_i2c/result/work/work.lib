@@ -1,0 +1,120 @@
+timestamp=1704464148000
+
+[~A]
+LastVerilogToplevel=tb
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*8071*14982
+
+[~MFT]
+0=19|0work.mgf|14982|0
+1=12|1work.mgf|61001|0
+3=24|3work.mgf|82904|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92168c024ae31f093e4e57abd6ebe0abf16c
+
+[\std::mailbox#(transaction) \]
+A/\std::mailbox#(transaction) \=22|||1*26170
+AICT=436342821826560
+BinL64/\std::mailbox#(transaction) \=3*37081
+CLI=0*3104
+SLP=3*38879
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|1e719b6ecd2368499b5e157e46e8cd700c31c31c31c4a3840d1d4de4df34dafee17464f1a94737b4bd0b2895bf24c4981d6e651509359ed5f7cbc96966deba1d
+
+[driver]
+A/driver=22|../testbench.sv|59|1*38064
+AICT=436342821827328
+BinL64/driver=3*50220
+CLI=0*5224
+R=../testbench.sv|59
+SLP=3*55980
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|32a8809e0c82d5e52151c5a0d1b53825acb909c938d6e17fe59bba6a50d52d0f
+
+[generator]
+A/generator=22|../testbench.sv|25|1*29955
+AICT=436342821825280
+BinL64/generator=3*40131
+CLI=0*4133
+R=../testbench.sv|25
+SLP=3*45304
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|868a022443c89e9f5ff3df3152251b4d1393fddf47876bc361e7a33e2c7578ef899fecb064b76f20ab5b387600b71de8
+
+[i2c_Slave]
+A/i2c_Slave=22|../design.sv|390|1*4537
+BinL64/i2c_Slave=3*9838
+R=../design.sv|390
+SLP=3*14274
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|2bfbf142099474c9657033bb45a503611028dad1b6062188cdf350f0781d23bd2294af6c8b95650a249d652fe7fdc43b
+
+[i2c_if]
+A/i2c_if=22|../design.sv|769|1*11065
+BinL64/i2c_if=3*19227
+R=../design.sv|769
+SLP=3*19436
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|f971bb9dbfe06ab0b32e0ff4987b7488b34a5fe8e5abfcc189a5d433fab673ed
+
+[i2c_master]
+A/i2c_master=22|../design.sv|5|1*374
+BinL64/i2c_master=3*174
+R=../design.sv|5
+SLP=3*4822
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|6122db9eeb6c6c9b75d2f5e3ee7ff517e948af81ee08a3d0c278ce5ae4553405a379da0e95148b0f48e08b474e72ac5f
+
+[i2c_top]
+A/i2c_top=22|../design.sv|749|1*8932
+BinL64/i2c_top=3*18724
+R=../design.sv|749
+SLP=3*19002
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|093baf5240d36d367c56a93c232c4eba26527262ddaa47cb266f3a3c4d9b973acd730a021ac8970fe6031e09d0a22b28
+
+[monitor]
+A/monitor=22|../testbench.sv|137|1*46028
+AICT=436342821827840
+BinL64/monitor=3*61222
+CLI=0*6275
+R=../testbench.sv|137
+SLP=3*65769
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|95ff40020058ee65c420aa5e779914f826527262ddaa47cb266f3a3c4d9b973a14d1157087885fd8a2b7e40ed4db39d7
+
+[scoreboard]
+A/scoreboard=22|../testbench.sv|175|1*53290
+AICT=436342821828096
+BinL64/scoreboard=3*70160
+CLI=0*7314
+R=../testbench.sv|175
+SLP=3*74966
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|cb8490c56fdb537d2557a00a58b17e11d8626a3683e7935cfb3d638038a68041247da88ae61a648e0ed3883fd4146f68
+
+[tb]
+A/tb=22|../testbench.sv|234|1*61001
+BinL64/tb=3*79648
+R=../testbench.sv|234
+SLP=3*82904
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|8db8692708dc0985d408d2497dbc95fa9ab2eccbba73554eab4fdcb5911bc792
+
+[transaction]
+A/transaction=22|../testbench.sv|2|1*13151
+AICT=436342821824512
+BinL64/transaction=3*19506
+CLI=0*2548
+R=../testbench.sv|2
+SLP=3*28400
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|e7c58dcfddb8de4c8440dd51a2d497d1fcb4642d0ac36a420143c757ad4eab6a70f945e36d879800e79c34d2dac57ba6
+
+[~U]
+$root=12|0*0|
+\std::mailbox#(transaction) \=12|||0x10030000
+driver=12|0*4587||0x30000
+generator=12|0*3512||0x30000
+i2c_Slave=12|0*767|
+i2c_if=12|0*1443||0x80000
+i2c_master=12|0*326|
+i2c_top=12|0*1155|
+monitor=12|0*5685||0x30000
+scoreboard=12|0*6685||0x30000
+tb=12|0*7763||0x10
+transaction=12|0*1753||0x30000
